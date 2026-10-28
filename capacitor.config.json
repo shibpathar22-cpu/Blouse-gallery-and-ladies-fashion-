@@ -1,0 +1,10 @@
+{
+  "appId": "com.blousegallery.ladiesfashion",
+  "appName": "Blouse Gallery & Ladies Fashion",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}
